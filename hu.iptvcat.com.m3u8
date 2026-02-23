@@ -1,0 +1,171 @@
+#EXTM3U
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/04fCzHl.png" group-title="General",16tv Budapest (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",ATV (160p)
+https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",ATV (576p)
+http://194.76.186.33:8000/play/a01g/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",ATV Spirit (576p)
+http://194.76.186.33:8000/play/a02e/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/C43Cc9N.png" group-title="Undefined",Apostol TV (576p)
+https://live.apostoltv.hu/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/cyReGWh.png" group-title="General",Bajai TV (720p)
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/3H3Ct9f.png" group-title="General",Berente TV (1080p)
+https://stream.streaming4u.hu/BerenteTV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Cool TV (576p)
+http://194.76.186.33:8000/play/a01l/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Cool TV (576p)
+http://194.76.186.33:8000/play/a04i/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/vVOEYuj.png" group-title="General",Csurgó TV (720p)
+https://5cd03f21c7193.streamlock.net/csurgotv/csurgolive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Csurgó TV (720p)
+http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/xKJoN8L.png" group-title="Sports",DSTV (720p)
+http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Dikh TV (576p)
+http://195.189.60.31:8003/play/a0gq/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Duna (720p)
+https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Duna (720p)
+https://viamotionhsi.netplus.ch/live/eds/duna/browser-HLS8/duna.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Duna TV (1080p)
+http://194.76.186.33:8000/play/a029/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Duna TV (576p)
+http://194.76.186.33:8000/play/a01u/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Duna World (576p)
+http://194.76.186.33:8000/play/a01i/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Elsö Kerület TV (1080p)
+https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL;AM;BG;DK;FI;FR;GE;DE;GR;HU;IT;NO;PT;RS;ES;SE;CH;TR;UA" tvg-logo="https://i.imgur.com/m7IC01U.png" group-title="Sport",Extreme Sports
+https://edge02.odtv.az/o4/extremesport/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Globo TV (720p) [Geo-blocked]
+https://stream.streaming4u.hu/GloboTV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.ibb.co/qJN7Qh2/gran-kicsi.png" group-title="Religious",Gran TV (720p)
+https://stream.medialive.hu/gran/grantvlive/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Gólya TV (480p) [Geo-blocked]
+https://stream.streaming4u.hu/GolyaTV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/iTUoC1v.png" group-title="Undefined",HU | TV7 Bekescsaba,TV7 Bekescsaba
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Hangulat TV (720p)
+https://iptv01.eurocable.co.hu:443/EC-HANGULATTV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Hangulat TV (720p)
+https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/64ygAE5.png" group-title="Undefined",Hatoscsatorna (360p)
+https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/zuWQKDm.png" group-title="General",Hévízi TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Izaura TV (576p)
+http://194.76.186.33:8000/play/a05j/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Jocky TV (576p)
+http://194.76.186.33:8000/play/a012/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Jászsági Térségi TV (440p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/QcrVj3Q.png" group-title="General",Karcag TV (720p)
+https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Kecskemeti TV (416p) [Not 24/7]
+https://eurobioinvest.hu:444/live/ktv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Komáromi Televízió (400p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/WEbDwE3.png" group-title="Entertainment",Light Channel (720p)
+http://streamer1.streamhost.org:1935/salive/hungarian/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",M1 (1080p)
+http://194.76.186.33:8000/play/a024/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",M1 (576p)
+http://194.76.186.33:8000/play/a00w/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",M1 (576p)
+http://195.189.60.31:8003/play/a09o/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",M2 (1080p)
+http://146.59.85.40:89/m2hd/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",M2 (1080p)
+http://194.76.186.33:8000/play/a03z/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",M2 (1080p)
+http://195.189.60.31:8003/play/a0f1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",M4 Sport (1080p)
+http://194.76.186.33:8000/play/a02c/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",M4 Sport (576p)
+http://194.76.186.33:8000/play/a02p/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",M5 (1080p)
+http://194.76.186.33:8000/play/a045/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",M5 (576p)
+http://194.76.186.33:8000/play/a030/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/IoiNus2.png" group-title="General",Miskolc TV (720p)
+https://video.mhzrt.hu/live/mitv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/yT0RmKi.png" group-title="General",Móra-Net TV (576p)
+https://stream.moranettv.hu/live/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Országgyűlés (Plenáris) (720p) [Not 24/7]
+http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Országgyűlés (Plenáris) (720p) [Not 24/7]
+https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Országgyűlés (Törvényalkotási bizottság) (720p) [Not 24/7]
+http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Országgyűlés (Törvényalkotási bizottság) (720p) [Not 24/7]
+https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Music",Oxygen Music (1080p)
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/xQa2idL.png" group-title="General",Pannon RTV (648p)
+https://stream.nmih.hu:4102/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",PilisTV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/PilisTV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentary",RT Documentary (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",RTL Gold (576p)
+http://195.189.60.31:8003/play/a0dy/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",RTL Harom (576p)
+http://194.76.186.33:8000/play/a05d/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",RTL Hungary (1080p)
+http://194.76.186.33:8000/play/a041/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",RTL Hungary (576p)
+http://194.76.186.33:8000/play/a04g/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",RTL Ketto (576p)
+http://194.76.186.33:8000/play/a05c/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",RTL Ketto (576p)
+http://194.76.186.33:8000/play/a05i/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/n39a2DT.png" group-title="General",Rákosmente TV (720p)
+http://rakosmentetv.hu:8080/hls/rmtv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU;SK" tvg-logo="https://i.imgur.com/WlF6tlZ.png" group-title="General",Régió TV (406p)
+http://tv.geniusnet.sk:8081/regiotv/pl.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",RégióPlusz TV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/RegioPluszTV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="Undefined",TV Eger (1080p)
+http://stream.tveger.hu:8010/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/2LE8xSW.png" group-title="General",TV Keszthely (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",TV Szentendre (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/TVSzentendre/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",TV2 (1080p)
+http://194.76.186.33:8000/play/a023/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",TV2 (1080p)
+http://194.76.186.33:8000/play/a043/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",TV2 (576p)
+http://194.76.186.33:8000/play/a01f/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",TV2 (576p)
+http://194.76.186.33:8000/play/a04f/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Kids",TV2 Kids (576p)
+http://194.76.186.33:8000/play/a033/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL;AM;BG;DK;FI;GE;DE;GR;HU;IT;SK;CH" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="General;ITALY",TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",The Fishing & Hunting Channel (576i)
+http://78.130.250.2:8023/play/a032/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Trimedio TV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/IoHyW7w.png" group-title="Undefined",VTV Füzesabony (720p)
+http://stream.nmih.hu:7960/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",VTV Füzesabony (720p) [Not 24/7]
+https://stream.nmih.hu:7962/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/9krKKgU.png" group-title="General",Völgyhíd TV (540p)
+https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Williams TV (480p)
+http://79.120.178.90:1935/williams/williamstv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",XVTV (480p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="https://i.imgur.com/MLVPf0i.png" group-title="Undefined",Zalaegerszegi TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Undefined",Óbuda TV (576p)
+https://stream.streaming4u.hu/ObudaTV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL;AM;BG;DK;FI;FR;GE;DE;GR;HU;IT;NO;PT;RS;ES;SE;CH;TR;UA" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Undefined;FRANCE;ITALY;SPAIN",НТВ Мир
+http://stream02.vnet.am/HTB/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL;AM;BG;DK;FI;FR;GE;DE;GR;HU;IT;NO;PT;RS;ES;SE;CH;TR;UA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="General;FRANCE;ITALY;SPAIN",РТР Планета Евро
+https://player.smotrim.ru/iframe/stream/live_id/4941?checkedby:iptvcat.com
